@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rimiroychowdhury952-crypto.github.io/arc-portfolio/sitemap.xml
